@@ -1,0 +1,9 @@
+transformers
+peft
+bitsandbytes
+langchain
+sentence-transformers
+chroma
+vllm
+requests
+streamlit
